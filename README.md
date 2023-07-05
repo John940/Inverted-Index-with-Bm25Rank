@@ -1,4 +1,4 @@
-#Inverted Index with Python Using RankBm25 library for Ranking System 
+# Inverted Index with Python Using RankBm25 library for Ranking System 
 
 _This project made for data-structure class_
 
