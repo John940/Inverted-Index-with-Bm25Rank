@@ -84,7 +84,7 @@ for i in range(len(doc_scores)):
 
 
 final_scores.sort(reverse= True,key= lambda x : x[1])
-print(final_scores) 
+print(final_scores)    #result is a sorted list with tuples(DocId, RankBm25 score)
 
 
 end = time.time()
